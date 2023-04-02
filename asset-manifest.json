@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://amiradamov.github.io/csb-bi598q/static/css/main.e777a688.chunk.css",
-    "main.js": "https://amiradamov.github.io/csb-bi598q/static/js/main.95feecd0.chunk.js",
-    "main.js.map": "https://amiradamov.github.io/csb-bi598q/static/js/main.95feecd0.chunk.js.map",
+    "main.css": "https://amiradamov.github.io/csb-bi598q/static/css/main.4c6ec018.chunk.css",
+    "main.js": "https://amiradamov.github.io/csb-bi598q/static/js/main.f4bcda56.chunk.js",
+    "main.js.map": "https://amiradamov.github.io/csb-bi598q/static/js/main.f4bcda56.chunk.js.map",
     "runtime-main.js": "https://amiradamov.github.io/csb-bi598q/static/js/runtime-main.08b45727.js",
     "runtime-main.js.map": "https://amiradamov.github.io/csb-bi598q/static/js/runtime-main.08b45727.js.map",
     "static/css/2.1ba447cc.chunk.css": "https://amiradamov.github.io/csb-bi598q/static/css/2.1ba447cc.chunk.css",
-    "static/js/2.66181d9c.chunk.js": "https://amiradamov.github.io/csb-bi598q/static/js/2.66181d9c.chunk.js",
-    "static/js/2.66181d9c.chunk.js.map": "https://amiradamov.github.io/csb-bi598q/static/js/2.66181d9c.chunk.js.map",
+    "static/js/2.b8140c5f.chunk.js": "https://amiradamov.github.io/csb-bi598q/static/js/2.b8140c5f.chunk.js",
+    "static/js/2.b8140c5f.chunk.js.map": "https://amiradamov.github.io/csb-bi598q/static/js/2.b8140c5f.chunk.js.map",
     "index.html": "https://amiradamov.github.io/csb-bi598q/index.html",
-    "precache-manifest.0fa54bbd06e895d1f9159b6451803524.js": "https://amiradamov.github.io/csb-bi598q/precache-manifest.0fa54bbd06e895d1f9159b6451803524.js",
+    "precache-manifest.0e7f57624d82f68d5a7ae879e71f231f.js": "https://amiradamov.github.io/csb-bi598q/precache-manifest.0e7f57624d82f68d5a7ae879e71f231f.js",
     "service-worker.js": "https://amiradamov.github.io/csb-bi598q/service-worker.js",
     "static/css/2.1ba447cc.chunk.css.map": "https://amiradamov.github.io/csb-bi598q/static/css/2.1ba447cc.chunk.css.map",
-    "static/css/main.e777a688.chunk.css.map": "https://amiradamov.github.io/csb-bi598q/static/css/main.e777a688.chunk.css.map",
-    "static/js/2.66181d9c.chunk.js.LICENSE.txt": "https://amiradamov.github.io/csb-bi598q/static/js/2.66181d9c.chunk.js.LICENSE.txt"
+    "static/css/main.4c6ec018.chunk.css.map": "https://amiradamov.github.io/csb-bi598q/static/css/main.4c6ec018.chunk.css.map",
+    "static/js/2.b8140c5f.chunk.js.LICENSE.txt": "https://amiradamov.github.io/csb-bi598q/static/js/2.b8140c5f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.08b45727.js",
     "static/css/2.1ba447cc.chunk.css",
-    "static/js/2.66181d9c.chunk.js",
-    "static/css/main.e777a688.chunk.css",
-    "static/js/main.95feecd0.chunk.js"
+    "static/js/2.b8140c5f.chunk.js",
+    "static/css/main.4c6ec018.chunk.css",
+    "static/js/main.f4bcda56.chunk.js"
   ]
 }
